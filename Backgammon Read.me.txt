@@ -1,0 +1,18 @@
+
+The Rules Of The Game
+
+
+two players the negative numbers are the blacks stone, and the white player is the possetive numbers
+
+your mission is to take out of the board all your stone
+
+you can eat a stone just if it one stone in the place you want to make a move to
+
+you are not able to move if you have eaten stone
+
+if the cube got double  you have for times to play
+
+
+hope you'll enjoy
+sincerely 
+Refael
